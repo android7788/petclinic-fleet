@@ -18,7 +18,7 @@ spec:
         - name: image-secret
       containers:
       - name: php-redis
-        image: devops.nrespositorydev.nus.edu.sg/java/petclinic
+        image: devops.nrepositorydev.nus.edu.sg/java/petclinic
         resources:
           requests:
             cpu: 100m
